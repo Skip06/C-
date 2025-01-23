@@ -133,7 +133,7 @@ int main(){
 
     //Reverse Array Elements
     // int temp;
-    // for(i=0;i<(n+1)/2;i++){
+    // for(i=0;i<(n)/2;i++){
     //     temp=a[n-i-1];
     //     a[n-i-1]=a[i];
     //     a[i]=temp;

@@ -84,13 +84,58 @@ int main(){
     // printf("\n");
 
     //Element-wise addition of two arrays
-    int b[50],s=0,m;
-    printf("Enter size of second array : ");
-    scanf("%d",&m);
-    for(i=0;i<m;i++){
+    // int b[50],m;
+    // printf("Enter size of second array : ");
+    // scanf("%d",&m);
+    // printf("Enter %d elements of array : ",m);
+    // for(i=0;i<m;i++){
+    //     scanf("%d",&b[i]);
+    // }    
+    // if (n==m){
+    //     for(i=0;i<n;i++){
+    //         s=0;
+    //         s=a[i]+b[i];
+    //         printf("%d\t",s);
+    //     }
+    // }
+    // else{
+    //     printf("Length of both the arrays are not same.");
+    // }
 
-    }    
+    // Sort the array (Bubble Sort Algorithm)
+    // int j,temp;
+    // for(i=0;i<n-1;i++){
+    //     for(j=0;j<n-i-1;j++){
+    //         if(a[j]>a[j+1]){
+    //             temp=a[j];
+    //             a[j]=a[j+1];
+    //             a[j+1]=temp;
+    //         }
+    //     }
+    // }
+    // for(i=0;i<n;i++){
+    //     printf("%d\t",a[i]);
+    // }
+
+
+    //Second largest element of array
+    // int j,temp;
+    // for(i=0;i<n-1;i++){ 
+    //     for(j=0;j<n-i-1;j++){
+    //         if (a[j]>a[j+1]){
+    //             temp=a[j];
+    //             a[j]=a[j+1];
+    //             a[j+1]=temp;
+    //         }
+    //     }
+    // }
+    // printf("Second largest element of the array is %d.",a[n-2]);
+
+
+
 
 
     return 0;
 }
+
+

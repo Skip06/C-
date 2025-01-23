@@ -131,8 +131,18 @@ int main(){
     // }
     // printf("Second largest element of the array is %d.",a[n-2]);
 
-
-
+    //Reverse Array Elements
+    // int temp;
+    // for(i=0;i<(n+1)/2;i++){
+    //     temp=a[n-i-1];
+    //     a[n-i-1]=a[i];
+    //     a[i]=temp;
+    // }
+    // for(i=0;i<n;i++){
+    //     printf("%d\t",a[i]);
+    // }
+    
+    
 
 
     return 0;

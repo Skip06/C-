@@ -1,6 +1,8 @@
 #include <stdio.h>
-
-int main(){
-    printf("Hello world");
+int main()
+{
+    int x = 5;
+    float y = 2;
+    printf("%f",x/y);
     return 0;
 }
